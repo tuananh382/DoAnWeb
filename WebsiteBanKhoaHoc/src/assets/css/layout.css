@@ -250,7 +250,7 @@ header img {
 #header {
   z-index: 1000;
   min-height: 0px;
-  background: rgb(45, 127, 252);
+  background: tomato;
   border-bottom: 1px solid #d8d8d8;
   margin: 0;
   padding: 0;
